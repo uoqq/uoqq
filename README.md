@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/uoqq/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moataz-Elmesmary&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <a href="https://github.com/uoqq/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoqq&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
     </td>
   </tr>
 </table>
