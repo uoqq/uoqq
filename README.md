@@ -1,8 +1,8 @@
 ### Hi there 💬
 
 ## 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000001?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
 
