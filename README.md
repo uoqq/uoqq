@@ -1,14 +1,9 @@
 ### Hi there 💬
 
-### 📊 Overall Stats
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/uoqq/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uoqq&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
-    </td>
-  </tr>
-</table>
 
 <!--
 **uoqq/uoqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
